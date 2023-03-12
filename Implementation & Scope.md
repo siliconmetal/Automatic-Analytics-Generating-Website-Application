@@ -1,4 +1,4 @@
-Since I developed the application for a software-developing company, I am not supposed to share the code, so I will be quickly explaing the implementation with few snippets and the scope of this application.
+Since I developed the application for a software-developing company, I am not supposed to share the code, so I would breifly explaing the implementation with few snippets and the scope of this application.
 
 ### 1. Implementaion
 
@@ -21,3 +21,11 @@ Using Streamlit the user-interface was designed. Firstly, the user needed to upl
 ![Fbprophat-chart](https://user-images.githubusercontent.com/42034100/224528006-8dc816ff-bb59-471f-bc86-e12889c2dd82.jpeg)
 ![Neuralprophet-chart](https://user-images.githubusercontent.com/42034100/224528008-dbd16d59-76fa-493f-9764-7244698a4d44.jpeg)
 ![Arima-chart](https://user-images.githubusercontent.com/42034100/224528009-03a18207-33cb-4956-b9d8-73c6f405d2fb.jpeg)
+
+
+#### 1.4 Testing
+After the application meeting all the aimed and imporvement requirements, it was hosted on Heroku for making it applicable for testing. I was alpha & beta tested with other fellow develpers in working on different projects and few active customers/future users.
+
+
+### 2. Scope of the application
+The is built with aim to provide a easy to get and easy to interpret information to textile industry stakeholders. In technical terms, the application is built using Python programming and initially hosting the back-end logic and UI on a cloud platform for primary testing and later including the feature. It supports data files in multiple formats providing easy to use interface without any technical requiremnts infact, just drag-and-drop using a single click.
