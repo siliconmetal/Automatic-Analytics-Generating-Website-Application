@@ -6,10 +6,15 @@ The focused users were the stakeholders of the textile industry. And the aim was
 
 The web application was developed using Python programming, using various logical implementations and libraries—for environment development, data analysis, and data visualization—including:
 * Streamlit,
-* Prophet,
+* Prophet(Neural Prophet),
 * Pandas,
 * Numpy,
 * Sklearn,
+* Matplotlib,
+* Plotly,
+* Seaborn,
+* PIL,
+* Datetime,
 * Statsmodel,
 * AutoTS,
 * And operations like Data splitting, Regression, Dataframe operations, Groupby, Training & Testing, etc.
