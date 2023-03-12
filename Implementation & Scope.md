@@ -13,6 +13,6 @@ Started the back-end development of the application in Pycharm using the require
 
 #### 1.3 The UI
 Using Streamlit the user-interface was designed. Firstly, the user needed to upload the data file under total five catagories, as per their requirements, and then depending upon the data uploaded after backend analysis data will be visualized using tabular and chart representaions as per entity corelation.
-![Fbprophat-chart](https://user-images.githubusercontent.com/42034100/224527854-3ee3ef29-11b2-479c-8aa7-40e2dcdcdd63.jpeg)
-![Neuralprophet-chart](https://user-images.githubusercontent.com/42034100/224527857-f50e602c-0c81-4a51-b5d5-b2231f4df4aa.jpeg)
-![Arima-chart](https://user-images.githubusercontent.com/42034100/224527860-672b53d3-800f-474b-be46-d16977e2f91c.jpeg)
+![Fbprophat-chart](https://user-images.githubusercontent.com/42034100/224527944-516a888e-dbc7-4f89-bf26-aeb585f8c5de.jpeg)
+![Neuralprophet-chart](https://user-images.githubusercontent.com/42034100/224527946-9e6318d7-02d5-4962-be86-54252bbba200.jpeg)
+![Arima-chart](https://user-images.githubusercontent.com/42034100/224527949-55b8e9d6-69c2-412d-a148-12450042961e.jpeg)
